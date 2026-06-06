@@ -384,7 +384,7 @@ CREATE TABLE game_events (
 ### 1. 下載專案
 
 ```bash
-git clone https://github.com/你的帳號/WebSocketGameDynamic.git
+git clone https://github.com/s717456/WebSocketGameDynamic.git
 cd WebSocketGameDynamic
 ```
 
